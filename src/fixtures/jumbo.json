@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Enjoy as a Web APP.",
+    "subTitle": "Watch on Laptop, PCs, Phone, Tablets and more.",
+    "image": "/images/misc/home-tv.jpg",
+    "alt": "Tiger King on Netflix",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Stream your programmes to watch on the go.",
+    "subTitle": "Stream your data and watch all your favourites .",
+    "image": "/images/misc/home-mobile.jpg",
+    "alt": "Watch on mobile",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Watch anyywhere.",
+    "subTitle": "Stream unlimited films, songs, gaming content, entertainment and much more without paying .",
+    "image": "/images/misc/home-imac.jpg",
+    "alt": "Money Heist on Netflix",
+    "direction": "row"
+  }
+]
